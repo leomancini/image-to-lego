@@ -1,0 +1,811 @@
+{
+	"metadata": {
+		"source": "https://www.bricklink.com/catalogColors.asp",
+		"retrieved": "August 2023"
+	},
+	"colors": [
+		{
+			"id": "1",
+			"name": "White",
+			"hex": "FFFFFF",
+			"available": {
+				"start": "1949",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "49",
+			"name": "Very Light Gray",
+			"hex": "E8E8E8",
+			"available": {
+				"start": "1997",
+				"end": "2004"
+			}
+		},
+		{
+			"id": "99",
+			"name": "Very Light Bluish Gray",
+			"hex": "E4E8E8",
+			"available": {
+				"start": "2004",
+				"end": "2013"
+			}
+		},
+		{
+			"id": "86",
+			"name": "Light Bluish Gray",
+			"hex": "AFB5C7",
+			"available": {
+				"start": "2003",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "9",
+			"name": "Light Gray",
+			"hex": "9C9C9C",
+			"available": {
+				"start": "1954",
+				"end": "2008"
+			}
+		},
+		{
+			"id": "10",
+			"name": "Dark Gray",
+			"hex": "6B5A5A",
+			"available": {
+				"start": "1961",
+				"end": "2006"
+			}
+		},
+		{
+			"id": "85",
+			"name": "Dark Bluish Gray",
+			"hex": "595D60",
+			"available": {
+				"start": "2003",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "11",
+			"name": "Black",
+			"hex": "212121",
+			"available": {
+				"start": "1957",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "59",
+			"name": "Dark Red",
+			"hex": "6A0E15",
+			"available": {
+				"start": "1961",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "5",
+			"name": "Red",
+			"hex": "B30006",
+			"available": {
+				"start": "1949",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "220",
+			"name": "Coral",
+			"hex": "FF8172",
+			"available": {
+				"start": "2019",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "231",
+			"name": "Dark Salmon",
+			"hex": "FF6326",
+			"available": {
+				"start": "2003",
+				"end": "2003"
+			}
+		},
+		{
+			"id": "25",
+			"name": "Salmon",
+			"hex": "FF7D5D",
+			"available": {
+				"start": "1997",
+				"end": "1999"
+			}
+		},
+		{
+			"id": "26",
+			"name": "Light Salmon",
+			"hex": "FCC7B7",
+			"available": {
+				"start": "1997",
+				"end": "2002"
+			}
+		},
+		{
+			"id": "58",
+			"name": "Sand Red",
+			"hex": "C58D80",
+			"available": {
+				"start": "2001",
+				"end": "2004"
+			}
+		},
+		{
+			"id": "120",
+			"name": "Dark Brown",
+			"hex": "50372F",
+			"available": {
+				"start": "2007",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "8",
+			"name": "Brown",
+			"hex": "6B3F22",
+			"available": {
+				"start": "1974",
+				"end": "2006"
+			}
+		},
+		{
+			"id": "91",
+			"name": "Light Brown",
+			"hex": "99663E",
+			"available": {
+				"start": "2002",
+				"end": "2006"
+			}
+		},
+		{
+			"id": "240",
+			"name": "Medium Brown",
+			"hex": "A16C42",
+			"available": {
+				"start": "2022",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "88",
+			"name": "Reddish Brown",
+			"hex": "82422A",
+			"available": {
+				"start": "2003",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "106",
+			"name": "Fabuland Brown",
+			"hex": "B3694E",
+			"available": {
+				"start": "1979",
+				"end": "1991"
+			}
+		},
+		{
+			"id": "69",
+			"name": "Dark Tan",
+			"hex": "B89869",
+			"available": {
+				"start": "1961",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "241",
+			"name": "Medium Tan",
+			"hex": "D9C594",
+			"available": {
+				"start": "2022",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "2",
+			"name": "Tan",
+			"hex": "EED9A4",
+			"available": {
+				"start": "1958",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "90",
+			"name": "Light Nougat",
+			"hex": "FECCB0",
+			"available": {
+				"start": "2004",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "28",
+			"name": "Nougat",
+			"hex": "FFAF7D",
+			"available": {
+				"start": "1979",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "150",
+			"name": "Medium Nougat",
+			"hex": "E3A05B",
+			"available": {
+				"start": "2010",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "225",
+			"name": "Dark Nougat",
+			"hex": "CE7942",
+			"available": {
+				"start": "2001",
+				"end": "2004"
+			}
+		},
+		{
+			"id": "160",
+			"name": "Fabuland Orange",
+			"hex": "EF9121",
+			"available": {
+				"start": "1983",
+				"end": "1987"
+			}
+		},
+		{
+			"id": "29",
+			"name": "Earth Orange",
+			"hex": "E6881D",
+			"available": {
+				"start": "1982",
+				"end": "2005"
+			}
+		},
+		{
+			"id": "68",
+			"name": "Dark Orange",
+			"hex": "B35408",
+			"available": {
+				"start": "1994",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "27",
+			"name": "Rust",
+			"hex": "B24817",
+			"available": {
+				"start": "1979",
+				"end": "2005"
+			}
+		},
+		{
+			"id": "4",
+			"name": "Orange",
+			"hex": "FF7E14",
+			"available": {
+				"start": "1993",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "31",
+			"name": "Medium Orange",
+			"hex": "FFA531",
+			"available": {
+				"start": "1950",
+				"end": "2007"
+			}
+		},
+		{
+			"id": "110",
+			"name": "Bright Light Orange",
+			"hex": "FFC700",
+			"available": {
+				"start": "2003",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "32",
+			"name": "Light Orange",
+			"hex": "FFBC36",
+			"available": {
+				"start": "1998",
+				"end": "2004"
+			}
+		},
+		{
+			"id": "96",
+			"name": "Very Light Orange",
+			"hex": "FFDCA4",
+			"available": {
+				"start": "2000",
+				"end": "2000"
+			}
+		},
+		{
+			"id": "161",
+			"name": "Dark Yellow",
+			"hex": "DD982E",
+			"available": {
+				"start": "2004",
+				"end": "2005"
+			}
+		},
+		{
+			"id": "3",
+			"name": "Yellow",
+			"hex": "FFE001",
+			"available": {
+				"start": "1949",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "33",
+			"name": "Light Yellow",
+			"hex": "FEE89F",
+			"available": {
+				"start": "1994",
+				"end": "2005"
+			}
+		},
+		{
+			"id": "103",
+			"name": "Bright Light Yellow",
+			"hex": "FFF08C",
+			"available": {
+				"start": "2004",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "236",
+			"name": "Neon Yellow",
+			"hex": "FFFC00",
+			"available": {
+				"start": "2022",
+				"end": "2023"
+			}
+		},
+
+		{
+			"id": "35",
+			"name": "Light Lime",
+			"hex": "ECEEBD",
+			"available": {
+				"start": "1992",
+				"end": "2007"
+			}
+		},
+		{
+			"id": "158",
+			"name": "Yellowish Green",
+			"hex": "E7F2A7",
+			"available": {
+				"start": "2012",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "76",
+			"name": "Medium Lime",
+			"hex": "DFE000",
+			"available": {
+				"start": "1998",
+				"end": "2005"
+			}
+		},
+		{
+			"id": "248",
+			"name": "Fabuland Lime",
+			"hex": "ADD237",
+			"available": {
+				"start": "1982",
+				"end": "1986"
+			}
+		},
+		{
+			"id": "34",
+			"name": "Lime",
+			"hex": "C4E000",
+			"available": {
+				"start": "1993",
+				"end": "2023"
+			}
+		},
+
+		{
+			"id": "155",
+			"name": "Olive Green",
+			"hex": "ABA953",
+			"available": {
+				"start": "2012",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "80",
+			"name": "Dark Green",
+			"hex": "2E5543",
+			"available": {
+				"start": "1961",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "6",
+			"name": "Green",
+			"hex": "00923D",
+			"available": {
+				"start": "1949",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "36",
+			"name": "Bright Green",
+			"hex": "10CB31",
+			"available": {
+				"start": "1950",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "37",
+			"name": "Medium Green",
+			"hex": "91DF8C",
+			"available": {
+				"start": "1950",
+				"end": "2004"
+			}
+		},
+		{
+			"id": "38",
+			"name": "Light Green",
+			"hex": "D7EED1",
+			"available": {
+				"start": "1992",
+				"end": "2005"
+			}
+		},
+		{
+			"id": "48",
+			"name": "Sand Green",
+			"hex": "A2BFA3",
+			"available": {
+				"start": "1964",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "39",
+			"name": "Dark Turquoise",
+			"hex": "00A29F",
+			"available": {
+				"start": "1998",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "40",
+			"name": "Light Turquoise",
+			"hex": "00C5BC",
+			"available": {
+				"start": "1998",
+				"end": "2004"
+			}
+		},
+		{
+			"id": "41",
+			"name": "Aqua",
+			"hex": "BCE5DC",
+			"available": {
+				"start": "1998",
+				"end": "2006"
+			}
+		},
+		{
+			"id": "152",
+			"name": "Light Aqua",
+			"hex": "CFEFEA",
+			"available": {
+				"start": "2011",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "63",
+			"name": "Dark Blue",
+			"hex": "243757",
+			"available": {
+				"start": "1961",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "7",
+			"name": "Blue",
+			"hex": "0057A6",
+			"available": {
+				"start": "1950",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "153",
+			"name": "Dark Azure",
+			"hex": "009FE0",
+			"available": {
+				"start": "2011",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "247",
+			"name": "Little Robots Blue",
+			"hex": "5DBFE4",
+			"available": {
+				"start": "2003",
+				"end": "2004"
+			}
+		},
+		{
+			"id": "72",
+			"name": "Maersk Blue",
+			"hex": "7DC1D8",
+			"available": {
+				"start": "1974",
+				"end": "2011"
+			}
+		},
+		{
+			"id": "156",
+			"name": "Medium Azure",
+			"hex": "6ACEE0",
+			"available": {
+				"start": "2012",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "87",
+			"name": "Sky Blue",
+			"hex": "8AD4E1",
+			"available": {
+				"start": "2003",
+				"end": "2007"
+			}
+		},
+		{
+			"id": "42",
+			"name": "Medium Blue",
+			"hex": "82ADD8",
+			"available": {
+				"start": "1949",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "105",
+			"name": "Bright Light Blue",
+			"hex": "BCD1ED",
+			"available": {
+				"start": "2004",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "62",
+			"name": "Light Blue",
+			"hex": "C8D9E1",
+			"available": {
+				"start": "1950",
+				"end": "2007"
+			}
+		},
+		{
+			"id": "55",
+			"name": "Sand Blue",
+			"hex": "8899AB",
+			"available": {
+				"start": "2001",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "109",
+			"name": "Dark Blue-Violet",
+			"hex": "2032B0",
+			"available": {
+				"start": "2004",
+				"end": "2006"
+			}
+		},
+		{
+			"id": "43",
+			"name": "Violet",
+			"hex": "3448A4",
+			"available": {
+				"start": "1992",
+				"end": "2005"
+			}
+		},
+		{
+			"id": "97",
+			"name": "Blue-Violet",
+			"hex": "506CEF",
+			"available": {
+				"start": "2004",
+				"end": "2005"
+			}
+		},
+		{
+			"id": "245",
+			"name": "Lilac",
+			"hex": "7862CE",
+			"available": {
+				"start": "2004",
+				"end": "2005"
+			}
+		},
+		{
+			"id": "73",
+			"name": "Medium Violet",
+			"hex": "9391E4",
+			"available": {
+				"start": "1999",
+				"end": "2004"
+			}
+		},
+		{
+			"id": "246",
+			"name": "Light Lilac",
+			"hex": "CDCCEE",
+			"available": {
+				"start": "2004",
+				"end": "2004"
+			}
+		},
+		{
+			"id": "44",
+			"name": "Light Violet",
+			"hex": "C9CAE2",
+			"available": {
+				"start": "1994",
+				"end": "2002"
+			}
+		},
+		{
+			"id": "89",
+			"name": "Dark Purple",
+			"hex": "5F2683",
+			"available": {
+				"start": "2003",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "24",
+			"name": "Purple",
+			"hex": "7A238D",
+			"available": {
+				"start": "1997",
+				"end": "2006"
+			}
+		},
+		{
+			"id": "93",
+			"name": "Light Purple",
+			"hex": "AF3195",
+			"available": {
+				"start": "2003",
+				"end": "2006"
+			}
+		},
+		{
+			"id": "157",
+			"name": "Medium Lavender",
+			"hex": "C689D9",
+			"available": {
+				"start": "2012",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "154",
+			"name": "Lavender",
+			"hex": "D3BDE3",
+			"available": {
+				"start": "2011",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "227",
+			"name": "Clikits Lavender",
+			"hex": "E0AAD9",
+			"available": {
+				"start": "2005",
+				"end": "2005"
+			}
+		},
+		{
+			"id": "54",
+			"name": "Sand Purple",
+			"hex": "B57DA5",
+			"available": {
+				"start": "2001",
+				"end": "2002"
+			}
+		},
+		{
+			"id": "71",
+			"name": "Magenta",
+			"hex": "B72276",
+			"available": {
+				"start": "2000",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "47",
+			"name": "Dark Pink",
+			"hex": "EF5BB3",
+			"available": {
+				"start": "1994",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "94",
+			"name": "Medium Dark Pink",
+			"hex": "F785B1",
+			"available": {
+				"start": "1992",
+				"end": "1993"
+			}
+		},
+		{
+			"id": "104",
+			"name": "Bright Pink",
+			"hex": "F7BCDA",
+			"available": {
+				"start": "2003",
+				"end": "2023"
+			}
+		},
+		{
+			"id": "23",
+			"name": "Pink",
+			"hex": "F5CDD6",
+			"available": {
+				"start": "1991",
+				"end": "2005"
+			}
+		},
+		{
+			"id": "56",
+			"name": "Light Pink",
+			"hex": "F2D3D1",
+			"available": {
+				"start": "2007",
+				"end": "2007"
+			}
+		}
+	]
+}
