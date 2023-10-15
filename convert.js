@@ -70,7 +70,7 @@ const countColors = (bricks) => {
   }, {})
 }
 let config = {
-  filename: '2.png',
+  filename: '3.png',
   year: '2023',
   scale: 20
 }
